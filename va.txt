@@ -1,0 +1,10 @@
+step1 jika variabel a ingin ditukar dengan b buatlah variabel kosong c
+step2 tukar variabel a dengan c sehingga variabel a kosong
+step3 masukan value b ke a sehingga variabel b kosong
+step4 masukan value c ke b sehinggal variabel c kosong
+
+define swap (pA,pB)
+
+pC=pB
+pB=pA
+pC=pA

@@ -1,0 +1,11 @@
+tentukan algoritma dan pseudocode volume tabung (jari jari = 3, tinggi= 5)
+
+ Algoritma
+step 1 mendeklarasikan volume, phi, diameter, dan tinggi.
+step 2 masukkan nilai phi=3,14 diameter =5 dan tinggi =4
+step 3 menghitung volume = 1/3*phi*diameter*tinggi
+step 4 menampilkan hasil dari volume kerucut
+
+pseudecode
+
+var volume, phi, jari-jari
